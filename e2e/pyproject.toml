@@ -1,0 +1,7 @@
+[project]
+name = "e2e"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "getgauge>=0.4.6",
+]
